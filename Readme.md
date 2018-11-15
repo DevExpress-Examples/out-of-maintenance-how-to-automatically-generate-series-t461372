@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Iris.cs](./CS/Bubbles/Model/Iris.cs) (VB: [Iris.vb](./VB/Bubbles/Model/Iris.vb))
+* **[MainWindow.xaml](./CS/Bubbles/View/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Bubbles/View/MainWindow.xaml))**
+* [IrisesViewModel.cs](./CS/Bubbles/ViewModel/IrisesViewModel.cs) (VB: [IrisesViewModel.vb](./VB/Bubbles/ViewModel/IrisesViewModel.vb))
+<!-- default file list end -->
 # How to automatically generate series
 
 
